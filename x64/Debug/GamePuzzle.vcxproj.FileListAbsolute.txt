@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\x64\Debug\GamePuzzle.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\x64\Debug\GamePuzzle.MyForm.resources
+C:\Users\Admin\source\repos\GamePuzzle\GamePuzzle\x64\Debug\GamePuzzle.vcxproj.GenerateResource.cache
